@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian! 👋
+# Hi there, I'm Sebastián! 👋
 
 Welcome to my GitHub profile! I'm a developer and writer who loves to create and experiment. Currently, I'm on a journey to build my development skills from the ground up, while also pursuing my passion for storytelling.
 
