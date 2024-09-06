@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sebastián Iturralde (itusebastian)
+# 👋 Hi, I'm Sebastián Iturralde
 
 Welcome to my GitHub profile! I'm a passionate software developer, creative writer, and former web designer. I thrive on exploring both the technical and creative sides of projects, and I enjoy working across disciplines to grow as a developer and a storyteller. My repositories showcase my development journey, my passion for literature, and even a nod to the legacy of my first entrepreneurial venture.
 
