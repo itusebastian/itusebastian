@@ -1,47 +1,41 @@
-# 👋 Hi, I'm Sebastián
+# ¡Hola! Soy Sebastián 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer, creative writer, and former web designer. I thrive on exploring both the technical and creative sides of projects, and I enjoy working across disciplines to grow as a developer and a storyteller. My repositories showcase my development journey, my passion for literature, and even a nod to the legacy of my first entrepreneurial venture.
+Soy un **autor de ficción** con más de 10 años de experiencia escribiendo relatos en [RelatoCorto.com](https://relatocorto.com), y ahora estoy embarcado en un emocionante viaje hacia el **desarrollo de software**. Mi objetivo es fusionar la creatividad de la escritura con el poder de la tecnología para crear soluciones innovadoras.
 
-## 🚀 About Me
+## 🚀 ¿Qué hago?
 
-- 💻 **Software Developer**: Starting from zero in June 2024, I am documenting my progress as a software developer, exploring technologies like JavaScript, Python, React.js, and Node.js.
-- ✍️ **Fiction Writer**: I am deeply committed to writing, from short stories to novels. I'm currently working with the [Fiction Forge](https://github.com/itusebastian/fiction-forge) private repository to create new stories. You can find my writing finalized stories on my blog at [RelatoCorto.com](https://RelatoCorto.com) where I share my serialized fiction monthly.
-- 🌐 **Web Design Legacy**: I'm also proud of my roots as a web designer. My past work with Zitux is commemorated in the [Zitux](https://github.com/itusebastian/zitux-legacy) repository, which serves as a tribute to the company I co-founded in 2009.
+- **Escritura Creativa**: He estado escribiendo y publicando relatos cortos, explorando la ficción y construyendo mundos fascinantes.
+- **Desarrollo de Software**: Actualmente estoy aprendiendo los fundamentos de la programación y desarrollo web. Estoy enfocado en tecnologías como **HTML/CSS**, **JavaScript**, y **Python**.
+- **Proyectos Personales**: Estoy documentando mi progreso como desarrollador en mi sitio web [itusebastian.com](https://itusebastian.com), donde también puedes encontrar mis proyectos actuales.
 
-## 🛠️ Technologies & Tools
+## 💻 Tecnologías en las que estoy trabajando
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Python
-- **Version Control**: Git & GitHub
-- **Other**: Writing, storytelling, content management
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python
+- **Control de versiones**: Git & GitHub
+- **Desarrollo web**: GitHub Pages
+- **Bases de datos**: SQL (pronto NoSQL)
 
-## 📂 Repositories
+## 📚 Mi aprendizaje actual
 
-### 📘 [Fiction Forge](https://github.com/itusebastian/fiction-forge) (Private)
-A space dedicated to my fiction writing. In this private repository, I take stories from raw ideas to final versions, ready to be published on my blog or as part of a book.
+Estoy comprometido con el aprendizaje continuo, explorando tanto el arte de contar historias como el desarrollo de software. Algunas áreas en las que estoy profundizando:
 
-### ✍️ [RelatCorto Blog](https://github.com/itusebastian/relatocorto-blog)
-A repository that hosts the live version of my fiction blog, updated monthly with new stories. This experiment explores how limiting access to past content affects my creative process.
+- **Desarrollo Web**: Creando sitios dinámicos y atractivos.
+- **Algoritmos y Estructuras de Datos**: Resolviendo problemas y mejorando la eficiencia de mis soluciones.
+- **Desarrollo de API**: Conectando servicios y aplicaciones mediante APIs RESTful.
 
-### 💻 [My Dev Portfolio](https://github.com/itusebastian/dev-portfolio)
-My journey as a software developer, documenting my growth, projects, and achievements, from my first lines of code to real-world applications.
+## 🌱 Proyectos
 
-### 🕰️ [Zitux - A Tribute to Our Legacy](https://github.com/itusebastian/zitux-legacy)
-A commemorative repository celebrating the history of Zitux, the web design company I co-founded. It includes a digital monument and tributes to our past work in front-end development.
+### 1. [RelatoCorto.com](https://relatocorto.com)
+Un sitio web dedicado a la publicación de relatos cortos de ficción escritos por mí y otros autores.
 
-## ✨ Goals & Aspirations
+### 2. [itusebastian.com](https://itusebastian.com)
+Un blog donde comparto mi progreso y aprendizaje en el mundo del desarrollo de software, junto con reflexiones sobre la conexión entre tecnología y creatividad.
 
-- 🛠️ Build and deploy real-world applications that solve meaningful problems.
-- 📚 Write and publish books and serialized fiction.
-- 🎯 Deepen my understanding of algorithms, data structures, and advanced technologies.
-- 🌍 Contribute to open-source projects and collaborate with other developers and writers.
+## 📫 Cómo contactarme
 
-## 💬 Let's Connect!
+- **Email**: [dev@itusebastian.com](mailto:dev@itusebastian.com)
+- **LinkedIn**: [linkedin.com/in/itusebastian](https://linkedin.com/in/itusebastian)
+- **Twitter**: [@itusebastian](https://twitter.com/itusebastian)
 
-If you'd like to connect, collaborate, or just chat, feel free to reach out to me:
-
-- **Email**: dev@itusebastian.com
-- **LinkedIn**: [itusebastian](https://linkedin.com/in/itusebastian)
-- **GitHub**: [itusebastian](https://github.com/itusebastian)
-
-Thanks for visiting my profile and checking out my work. I look forward to sharing my journey with you!
+¡Gracias por pasarte por mi perfil! Siempre estoy abierto a colaboraciones y proyectos emocionantes que combinen escritura y tecnología.
