@@ -1,40 +1,27 @@
-# ¡Hola! Soy Sebastián 👋
+# 👋 ¡Hola! Soy Sebastián Iturralde  
 
-Soy un **autor de ficción** con más de 10 años de experiencia escribiendo relatos en [Relato Corto](https://www.relatocorto.com), y ahora estoy embarcado en un emocionante viaje hacia el **desarrollo de software**. Mi objetivo es fusionar la creatividad de la escritura con el poder de la tecnología para crear soluciones innovadoras.
+💻 **Desarrollador de Software** apasionado por crear soluciones eficientes y escalables.  
+🚀 Con experiencia en desarrollo web, backend y tecnologías emergentes como la IA generativa.  
+🎯 Siempre en constante aprendizaje para mejorar mis habilidades y aportar valor a cada proyecto.  
 
-## 🚀 ¿Qué hago?
+## 🔧 Tecnologías y Herramientas  
+- **Lenguajes:** JavaScript, TypeScript, Python, Go  
+- **Frontend:** React, Tailwind CSS, HTML, CSS  
+- **Backend:** Node.js, Express, API REST  
+- **Bases de Datos:** SQL, NoSQL  
+- **DevOps & Herramientas:** Git, Linux, Docker  
+- **IA & Machine Learning:** OpenAI API, Prompt Engineering  
 
-- **Escritura Creativa**: He estado escribiendo y publicando relatos cortos, explorando la ficción y construyendo mundos fascinantes.
-- **Desarrollo de Software**: Actualmente estoy aprendiendo los fundamentos de la programación y desarrollo web. Estoy enfocado en tecnologías como **HTML/CSS**, **JavaScript**, y **Python**.
-- **Proyectos Personales**: Estoy documentando mi progreso como desarrollador en mi sitio web [itusebastian.com](https://dev.itusebastian.com), donde también puedes encontrar mis proyectos actuales.
+## 📜 Certificaciones Destacadas  
+✔️ **Google:** Sistemas operativos, Redes, Soporte Técnico  
+✔️ **Microsoft:** Desarrollo de software, IA Generativa  
+✔️ **LinkedIn:** Programación, JavaScript, Bases de datos, AI  
+✔️ **freeCodeCamp:** Responsive Web Design  
+✔️ **EDteam:** JavaScript, Python, Git, Algoritmos  
 
-## 💻 Tecnologías en las que estoy trabajando
+## 📫 Conéctate conmigo  
+🔗 [LinkedIn](https://www.linkedin.com/in/itusebastian/)  
+🌐 [Portafolio](https://dev.itusebastian.com)  
+📧 [Email](mailto:dev@itusebastian.com)  
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python
-- **Control de versiones**: Git & GitHub
-- **Desarrollo web**: GitHub Pages
-- **Bases de datos**: SQL (pronto NoSQL)
-
-## 📚 Mi aprendizaje actual
-
-Estoy comprometido con el aprendizaje continuo, explorando tanto el arte de contar historias como el desarrollo de software. Algunas áreas en las que estoy profundizando:
-
-- **Desarrollo Web**: Creando sitios dinámicos y atractivos.
-- **Algoritmos y Estructuras de Datos**: Resolviendo problemas y mejorando la eficiencia de mis soluciones.
-- **Desarrollo de API**: Conectando servicios y aplicaciones mediante APIs RESTful.
-
-## 🌱 Proyectos
-
-### 1. [Relato Corto](https://www.relatocorto.com)
-Un sitio web dedicado a la publicación de relatos cortos de ficción escritos por mí y otros autores.
-
-### 2. [Dev Porfolio](https://dev.itusebastian.com)
-Un blog donde comparto mi progreso y aprendizaje en el mundo del desarrollo de software, junto con reflexiones sobre la conexión entre tecnología y creatividad.
-
-## 📫 Cómo contactarme
-
-- **Email**: [dev@itusebastian.com](mailto:dev@itusebastian.com)
-- **LinkedIn**: [linkedin.com/in/itusebastian](https://linkedin.com/in/itusebastian)
-
-¡Gracias por pasarte por mi perfil! Siempre estoy abierto a colaboraciones y proyectos emocionantes que combinen escritura y tecnología.
+¡Siempre abierto a nuevos proyectos y colaboraciones! 🚀  
