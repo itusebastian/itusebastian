@@ -1,3 +1,3 @@
-# 🚀 Impulsando negocios en la era digital
+# 🧑‍💻 Desarrollo web eficiente con Laravel, SEO y enfoque en resultados
 
-Apasionado por el desarrollo web, el SEO y la tecnología. Ayudo a negocios y personas a crecer en línea con soluciones digitales efectivas y personalizadas.
+Profesional del desarrollo PHP con enfoque en rendimiento, posicionamiento y conversión. Construyo herramientas digitales a medida que potencian la visibilidad y funcionalidad online.
