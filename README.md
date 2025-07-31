@@ -1,3 +1,3 @@
-# 🧑‍💻 Desarrollo web eficiente con Laravel, SEO y enfoque en resultados
+# 🧑‍💻 Pensando en código, construyendo con propósito
 
-Profesional del desarrollo PHP con enfoque en rendimiento, posicionamiento y conversión. Construyo herramientas digitales a medida que potencian la visibilidad y funcionalidad online.
+Desarrollador PHP enfocado en Laravel. Me apasiona escribir código limpio, comprensible y útil. Siempre buscando aprender más y mejorar cada línea que escribo.
