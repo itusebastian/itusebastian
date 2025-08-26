@@ -1,3 +1,3 @@
-# 🧑‍💻 Pensando en código, construyendo con propósito
+# 🧑‍💻 Automatización, SEO, Scraping, Bots e IA
 
-Dev en Python y PHP. Construyo sistemas SEO, scrapers, bots de Discord y apps con IA. Me apasiona automatizar, optimizar y aprender siempre.
+Desarrollador Python/PHP. Construyo sistemas de automatización, scrapers, SEO frameworks y bots con IA. Me apasiona crear herramientas útiles y aprender cada día.
