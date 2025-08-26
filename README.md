@@ -1,3 +1,3 @@
 # 🧑‍💻 Pensando en código, construyendo con propósito
 
-Desarrollador PHP dando forma a mis primeras aplicaciones con Laravel. Exploro frameworks y tecnologías como Flask, Angular y Jekyll. Siempre aprendiendo, siempre construyendo.
+Dev en Python y PHP. Construyo sistemas SEO, scrapers, bots de Discord y apps con IA. Me apasiona automatizar, optimizar y aprender siempre.
