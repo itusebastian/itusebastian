@@ -1,3 +1,3 @@
-# 🧑‍💻 Automatización, SEO, Scraping, Bots e IA
+# Building Scalable Web Apps with PHP, Python & Modern DevOps
 
-Desarrollador Python/PHP. Construyo sistemas de automatización, scrapers, SEO frameworks y bots con IA. Me apasiona crear herramientas útiles y aprender cada día.
+Full-Stack Developer passionate about building scalable web apps with PHP and Python. Experienced in CI/CD pipelines, Docker, and database optimization. Vim enthusiast who loves clean code, automation, and contributing to impactful projects.
