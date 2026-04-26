@@ -1,3 +1,3 @@
-# Building Scalable Web Apps with PHP, Python & Modern DevOps
+# Building Invisible Architecture: Scalable APIs & Automation
 
-Full-Stack Developer passionate about building scalable web apps with PHP and Python. Experienced in CI/CD pipelines, Docker, and database optimization. Vim enthusiast who loves clean code, automation, and contributing to impactful projects.
+Back-end specialist focused on decoupled Flask/Laravel systems. I bridge the gap between complex commerce and clean code through TDD, SOLID principles, and CI/CD. Currently scaling digital infrastructure for the coffee industry.
