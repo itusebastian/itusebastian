@@ -1,10 +1,10 @@
-# 🛠️ Senior Full-Stack Engineer & Systems Architect
+# 🛠️ Software & Growth Engineer | Frontend • CI/CD • GEO
 
-I build, harden, and optimize web applications and server infrastructure. With 16+ years of development experience, I specialize in creating resilient digital pipelines—from backend logic to automated infrastructure and search engine mechanics.
+I bridge the gap between clean frontend code, cloud deployment, and advanced search engine visibility. I build fast, high-performance static platforms engineered for the next generation of discovery, including AI Overviews and GEO.
 
-- **Backend & Logic:** PHP (Laravel), Python (Flask), API Integration & LLMs
-- **Systems & Infra:** Linux Administration, Nginx, Postfix Mail Servers, DNS Management
-- **Discovery Engine:** Technical SEO & Generative Engine Optimization (GEO/AIO)
+- **Technical SEO Architecture:** Building fast SSG platforms scaled for organic growth.
+- **Next-Gen Discovery:** Optimizing web infrastructure for AI search engines and GEO.
+- **Pipeline Automation:** Managing the full lifecycle from local dev to CI/CD delivery.
 
 ---
 
