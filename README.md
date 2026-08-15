@@ -1,10 +1,10 @@
-# 🛠️ Software & Growth Engineer | Frontend • CI/CD • GEO
+# 🛠️ Full-Stack Developer & SEO/GEO Architecture Specialist
 
-I bridge the gap between clean frontend code, cloud deployment, and advanced search engine visibility. I build fast, high-performance static platforms engineered for the next generation of discovery, including AI Overviews and GEO.
+Software developer building custom web applications from the ground up. Combining JS, Express, AWS, Supabase, and Jamstack to architect fast, scalable systems engineered for maximum search & AI search engine visibility.
 
-- **Technical SEO Architecture:** Building fast SSG platforms scaled for organic growth.
-- **Next-Gen Discovery:** Optimizing web infrastructure for AI search engines and GEO.
-- **Pipeline Automation:** Managing the full lifecycle from local dev to CI/CD delivery.
+- Architecting full-stack web applications with JS, Express, and cloud infra.
+- Engineering SEO & GEO architecture to optimize content indexing for search & AI.
+- Migrating legacy databases and deploying high-performance Jamstack solutions.
 
 ---
 
