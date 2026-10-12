@@ -1,10 +1,10 @@
-# 🛠️ Full-Stack Engineer & Cloud Systems Specialist
+# 🛠️ Lead Software Engineer | Enterprise AI & Full-Stack Systems
 
-Software engineer modernizing web platforms and cloud infrastructure from the ground up. Combining Node.js, Express, AWS, CI/CD, and Jamstack to architect fast, reliable systems built for maximum speed, security, and high uptime.  
+I build and scale software from greenfield concepts to high-traffic production platforms. Currently leading global teams to engineer enterprise AI agent systems and overhaul high-impact modern UI architectures.
 
-- Architecting full-stack cloud applications on AWS with Node.js, Express, and Docker.
-- Migrating legacy monolithic platforms to high-performance Jamstack & SSG architecture.
-- Constructing automated CI/CD pipelines, custom CMS solutions, and server operations.
+- Lead Software Engineer @AvenFort building enterprise AI agents & modern web systems.
+- Ex-startup CTO & Full-Stack Architect with end-to-end product engineering experience.
+- Specialized in system design, scalable DBs, custom CI/CD pipelines, & technical leadership.
 
 ---
 
